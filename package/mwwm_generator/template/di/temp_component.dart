@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:surf_injector/surf_injector.dart';
 import 'package:surf_mwwm/surf_mwwm.dart';
-import 'package:workshop_demo/ui/app/di/app_component.dart';
+import 'package:workshop/ui/app/di/app_component.dart';
 
 /// [Component] для [$Temp$]
 class $Temp$Component extends Component {

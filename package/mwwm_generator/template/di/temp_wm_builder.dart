@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:surf_mwwm/surf_mwwm.dart';
 import 'package:surf_injector/surf_injector.dart';
-import 'package:workshop_demo/base/error_handler.dart';
+import 'package:workshop/base/error_handler.dart';
 import '../temp_wm.dart';
 import 'temp_component.dart';
 
